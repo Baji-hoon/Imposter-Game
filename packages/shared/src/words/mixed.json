@@ -1,0 +1,22 @@
+{
+  "id": "mixed",
+  "title": "Mixed & Random",
+  "pairs": [
+    { "a": "sword", "b": "dagger", "difficulty": "medium" },
+    { "a": "wizard", "b": "sorcerer", "difficulty": "hard" },
+    { "a": "pirate", "b": "sailor", "difficulty": "easy" },
+    { "a": "robot", "b": "cyborg", "difficulty": "medium" },
+    { "a": "star", "b": "planet", "difficulty": "easy" },
+    { "a": "diamond", "b": "crystal", "difficulty": "medium" },
+    { "a": "crown", "b": "tiara", "difficulty": "hard" },
+    { "a": "ghost", "b": "shadow", "difficulty": "medium" },
+    { "a": "helmet", "b": "cap", "difficulty": "easy" },
+    { "a": "ring", "b": "bracelet", "difficulty": "easy" },
+    { "a": "canoe", "b": "kayak", "difficulty": "medium" },
+    { "a": "ladder", "b": "stairs", "difficulty": "easy" },
+    { "a": "mask", "b": "disguise", "difficulty": "medium" },
+    { "a": "drum", "b": "cymbal", "difficulty": "medium" },
+    { "a": "fire", "b": "flame", "difficulty": "hard" },
+    { "a": "detective", "b": "spy", "difficulty": "easy" }
+  ]
+}

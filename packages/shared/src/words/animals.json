@@ -1,0 +1,22 @@
+{
+  "id": "animals",
+  "title": "Animals",
+  "pairs": [
+    { "a": "cat", "b": "fox", "difficulty": "easy" },
+    { "a": "crow", "b": "bat", "difficulty": "medium" },
+    { "a": "horse", "b": "donkey", "difficulty": "easy" },
+    { "a": "frog", "b": "toad", "difficulty": "medium" },
+    { "a": "alligator", "b": "crocodile", "difficulty": "hard" },
+    { "a": "rabbit", "b": "hare", "difficulty": "medium" },
+    { "a": "bee", "b": "wasp", "difficulty": "medium" },
+    { "a": "butterfly", "b": "moth", "difficulty": "easy" },
+    { "a": "dolphin", "b": "shark", "difficulty": "easy" },
+    { "a": "penguin", "b": "puffin", "difficulty": "hard" },
+    { "a": "leopard", "b": "cheetah", "difficulty": "medium" },
+    { "a": "duck", "b": "goose", "difficulty": "easy" },
+    { "a": "turtle", "b": "tortoise", "difficulty": "medium" },
+    { "a": "owl", "b": "hawk", "difficulty": "medium" },
+    { "a": "wolf", "b": "coyote", "difficulty": "hard" },
+    { "a": "mouse", "b": "hamster", "difficulty": "easy" }
+  ]
+}

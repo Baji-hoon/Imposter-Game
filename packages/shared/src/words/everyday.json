@@ -1,0 +1,22 @@
+{
+  "id": "everyday",
+  "title": "Everyday Objects",
+  "pairs": [
+    { "a": "egg", "b": "ball", "difficulty": "easy" },
+    { "a": "pen", "b": "pencil", "difficulty": "easy" },
+    { "a": "spoon", "b": "ladle", "difficulty": "medium" },
+    { "a": "sofa", "b": "bench", "difficulty": "easy" },
+    { "a": "moon", "b": "lantern", "difficulty": "medium" },
+    { "a": "guitar", "b": "ukulele", "difficulty": "medium" },
+    { "a": "candle", "b": "flashlight", "difficulty": "easy" },
+    { "a": "pillow", "b": "cushion", "difficulty": "easy" },
+    { "a": "clock", "b": "watch", "difficulty": "easy" },
+    { "a": "mug", "b": "cup", "difficulty": "easy" },
+    { "a": "blanket", "b": "towel", "difficulty": "medium" },
+    { "a": "mirror", "b": "window", "difficulty": "medium" },
+    { "a": "hammer", "b": "wrench", "difficulty": "hard" },
+    { "a": "backpack", "b": "suitcase", "difficulty": "medium" },
+    { "a": "umbrella", "b": "parasol", "difficulty": "hard" },
+    { "a": "glasses", "b": "goggles", "difficulty": "medium" }
+  ]
+}

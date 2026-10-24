@@ -1,0 +1,22 @@
+{
+  "id": "places",
+  "title": "Places & Nature",
+  "pairs": [
+    { "a": "bus", "b": "tram", "difficulty": "easy" },
+    { "a": "sea", "b": "lake", "difficulty": "easy" },
+    { "a": "hotel", "b": "hostel", "difficulty": "medium" },
+    { "a": "mountain", "b": "hill", "difficulty": "easy" },
+    { "a": "forest", "b": "jungle", "difficulty": "medium" },
+    { "a": "river", "b": "stream", "difficulty": "medium" },
+    { "a": "castle", "b": "palace", "difficulty": "hard" },
+    { "a": "desert", "b": "beach", "difficulty": "easy" },
+    { "a": "island", "b": "peninsula", "difficulty": "hard" },
+    { "a": "library", "b": "bookstore", "difficulty": "medium" },
+    { "a": "cinema", "b": "theater", "difficulty": "easy" },
+    { "a": "bakery", "b": "cafe", "difficulty": "easy" },
+    { "a": "bridge", "b": "tunnel", "difficulty": "medium" },
+    { "a": "airport", "b": "station", "difficulty": "easy" },
+    { "a": "cave", "b": "mine", "difficulty": "hard" },
+    { "a": "stadium", "b": "arena", "difficulty": "medium" }
+  ]
+}

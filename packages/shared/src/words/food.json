@@ -1,0 +1,22 @@
+{
+  "id": "food",
+  "title": "Food & Drinks",
+  "pairs": [
+    { "a": "pizza", "b": "flatbread", "difficulty": "medium" },
+    { "a": "tea", "b": "coffee", "difficulty": "easy" },
+    { "a": "pancake", "b": "waffle", "difficulty": "easy" },
+    { "a": "butter", "b": "cheese", "difficulty": "medium" },
+    { "a": "apple", "b": "pear", "difficulty": "easy" },
+    { "a": "lemon", "b": "lime", "difficulty": "easy" },
+    { "a": "soup", "b": "stew", "difficulty": "medium" },
+    { "a": "biscuit", "b": "cookie", "difficulty": "easy" },
+    { "a": "ice cream", "b": "gelato", "difficulty": "hard" },
+    { "a": "juice", "b": "soda", "difficulty": "easy" },
+    { "a": "rice", "b": "noodles", "difficulty": "easy" },
+    { "a": "taco", "b": "burrito", "difficulty": "medium" },
+    { "a": "jam", "b": "honey", "difficulty": "medium" },
+    { "a": "croissant", "b": "bagel", "difficulty": "medium" },
+    { "a": "chocolate", "b": "fudge", "difficulty": "hard" },
+    { "a": "muffin", "b": "cupcake", "difficulty": "easy" }
+  ]
+}

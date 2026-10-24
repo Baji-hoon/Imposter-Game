@@ -1,0 +1,81 @@
+{
+    "id": "travel",
+    "title": "Travel & Adventure",
+    "pairs": [
+        {
+            "a": "backpacking",
+            "b": "road trip",
+            "difficulty": "medium"
+        },
+        {
+            "a": "passport",
+            "b": "visa",
+            "difficulty": "easy"
+        },
+        {
+            "a": "hostel",
+            "b": "homestay",
+            "difficulty": "easy"
+        },
+        {
+            "a": "trek",
+            "b": "hike",
+            "difficulty": "easy"
+        },
+        {
+            "a": "sunset",
+            "b": "sunrise",
+            "difficulty": "easy"
+        },
+        {
+            "a": "waterfall",
+            "b": "lake",
+            "difficulty": "easy"
+        },
+        {
+            "a": "camping",
+            "b": "glamping",
+            "difficulty": "medium"
+        },
+        {
+            "a": "itinerary",
+            "b": "bucket list",
+            "difficulty": "medium"
+        },
+        {
+            "a": "local sim",
+            "b": "wifi",
+            "difficulty": "hard"
+        },
+        {
+            "a": "layover",
+            "b": "connecting flight",
+            "difficulty": "hard"
+        },
+        {
+            "a": "souvenir",
+            "b": "memento",
+            "difficulty": "medium"
+        },
+        {
+            "a": "monsoon trip",
+            "b": "winter trip",
+            "difficulty": "hard"
+        },
+        {
+            "a": "solo trip",
+            "b": "group trip",
+            "difficulty": "easy"
+        },
+        {
+            "a": "staycation",
+            "b": "vacation",
+            "difficulty": "easy"
+        },
+        {
+            "a": "jet lag",
+            "b": "travel fatigue",
+            "difficulty": "hard"
+        }
+    ]
+}

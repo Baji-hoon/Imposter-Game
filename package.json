@@ -1,0 +1,22 @@
+{
+  "name": "imposter",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/shared",
+    "apps/mobile"
+  ],
+  "scripts": {
+    "start": "npm run start -w apps/mobile",
+    "android": "npm run android -w apps/mobile",
+    "ios": "npm run ios -w apps/mobile",
+    "typecheck": "npm run typecheck --workspaces",
+    "test": "npm run test -w packages/shared",
+    "setup-lan": "node scripts/setup-lan.js",
+    "build:web": "node scripts/build-web-assets.js",
+    "lint": "npm run lint --workspaces --if-present"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
